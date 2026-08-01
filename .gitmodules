@@ -1,0 +1,3 @@
+[submodule "StepperDRV88x"]
+	path = StepperDRV88x
+	url = git@github.com:BiomechatronicsRookie/StepperDRV88x.git

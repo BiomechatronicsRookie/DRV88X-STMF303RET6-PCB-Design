@@ -4623,14 +4623,15 @@
 				)
 			)
 		)
-		(property "Value" "VCC"
-			(at 64.77 72.39 0)
+		(property "Value" "+24v"
+			(at 67.31 76.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -6500,25 +6501,25 @@
 		(fields_autoplaced yes)
 		(uuid "d93336c7-8307-4d99-99e1-58baf9ed1e5c")
 		(property "Reference" "U2"
-			(at 63.8967 129.54 0)
+			(at 69.1581 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "DRV8872DDA"
-			(at 63.8967 132.08 0)
+			(at 69.1581 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias"
@@ -6614,14 +6615,15 @@
 				)
 			)
 		)
-		(property "Value" "VCC"
-			(at 66.04 121.92 0)
+		(property "Value" "+24v"
+			(at 68.58 125.7299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""

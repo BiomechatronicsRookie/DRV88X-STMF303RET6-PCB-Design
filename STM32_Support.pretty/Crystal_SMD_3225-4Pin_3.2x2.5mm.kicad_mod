@@ -1,0 +1,13 @@
+(footprint "Crystal_SMD_3225-4Pin_3.2x2.5mm"
+ (version 20240108) (generator "pcbnew") (layer "F.Cu")
+ (descr "3.2 x 2.5 mm four-pad SMD crystal, use pads 1 and 3 as crystal terminals") (attr smd)
+ (fp_text reference "Y**" (at 0 -2.2) (layer "F.SilkS") (effects (font (size .8 .8) (thickness .12))))
+ (fp_text value "Crystal_8MHz" (at 0 2.2) (layer "F.Fab") (effects (font (size .8 .8) (thickness .12))))
+ (fp_rect (start -1.6 -1.25) (end 1.6 1.25) (stroke (width .1) (type default)) (fill none) (layer "F.Fab"))
+ (fp_rect (start -2.1 -1.6) (end 2.1 1.6) (stroke (width .05) (type default)) (fill none) (layer "F.CrtYd"))
+ (pad "1" smd rect (at -1.2 -.85) (size 1.3 1.1) (layers "F.Cu" "F.Paste" "F.Mask"))
+ (pad "2" smd rect (at -1.2 .85) (size 1.3 1.1) (layers "F.Cu" "F.Paste" "F.Mask"))
+ (pad "3" smd rect (at 1.2 .85) (size 1.3 1.1) (layers "F.Cu" "F.Paste" "F.Mask"))
+ (pad "4" smd rect (at 1.2 -.85) (size 1.3 1.1) (layers "F.Cu" "F.Paste" "F.Mask"))
+)
+

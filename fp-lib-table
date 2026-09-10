@@ -1,5 +1,7 @@
 (fp_lib_table
-	(version 7)
-	(lib (name "TMR3109") (type "KiCad") (uri "C:/Users/vicar/Documents/KiCad/10.0/footprints/TMR3109.pretty") (options "") (descr ""))
-	(lib (name "STM32F303RET6") (type "KiCad") (uri "C:/Users/vicar/Documents/KiCad/10.0/footprints/STM32F303RET6.pretty") (options "") (descr ""))
+ (version 7)
+ (lib (name "STM32F303RET6") (type "KiCad") (uri "${KIPRJMOD}/STM32F303RET6.pretty") (options "") (descr "STM32F303RET6 LQFP-64 footprint"))
+ (lib (name "TMR3109") (type "KiCad") (uri "${KIPRJMOD}/TMR3109.pretty") (options "") (descr "TMR3109P SOP-8 footprint"))
+ (lib (name "STM32_Support") (type "KiCad") (uri "${KIPRJMOD}/STM32_Support.pretty") (options "") (descr "STM32 power and clock support footprints"))
 )
+
